@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Espen Henriksen</h1>
-<h3 align="center">I’m a full-stack developer with a focus on state‑of‑the‑art frontend!</h3>
+<h3 align="center">I’m a full-stack developer with a focus on state‑of‑the‑art web!</h3>
 
 - 👨‍💻 Get to know me [https://espen.dev](https://espen.dev)
 
